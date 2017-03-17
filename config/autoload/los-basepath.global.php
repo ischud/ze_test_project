@@ -2,7 +2,7 @@
 
 return [
 
-    'los_basepath' => '/dev/cm_45_ki',
+    'los_basepath' => '/ze_test_project',
 
     'dependencies' => [
         'factories' => [

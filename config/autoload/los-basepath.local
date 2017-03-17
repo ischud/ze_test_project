@@ -2,7 +2,7 @@
 
 return [
 
-    'los_basepath' => '/test/zend_expressive',
+    'los_basepath' => '/ze_test_project',
 
     'dependencies' => [
         'factories' => [
